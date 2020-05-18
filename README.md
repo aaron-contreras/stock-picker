@@ -18,5 +18,6 @@
       # loop through each price in the list
       # find the highest price from the current index we're in until the end
       # store the profit between the two days and their indexes.
-      # find the greatest of this list of profit and return the indexes.
+      # return the greatest of the list of profits
+      # Give the user investment advice
     ```
